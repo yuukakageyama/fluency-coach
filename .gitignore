@@ -1,10 +1,18 @@
-# python
+# Python
 __pycache__/
 *.pyc
 
 # virtual environment
 .venv/
-venv/
+backend/.venv/
+
+# backend cache
+backend/__pycache__/
+
+# generated audio / results
+backend/data/uploads/
+backend/data/results/
+backend/data/plots/
 
 # mac
 .DS_Store
