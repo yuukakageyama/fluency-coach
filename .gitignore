@@ -9,6 +9,10 @@ backend/.venv/
 # backend cache
 backend/__pycache__/
 
+# env
+.env
+.env.local
+
 # generated audio / results
 backend/data/uploads/
 backend/data/results/
