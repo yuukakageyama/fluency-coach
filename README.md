@@ -1,4 +1,5 @@
 # Fluency Coach
+<img width="1750" height="1087" alt="image" src="https://github.com/user-attachments/assets/b042706c-6c31-48c7-8c3b-706fb80cc9cc" />
 
 Fluency Coach は、英語スピーキングの練習をサポートするWebアプリケーションです。
 
@@ -120,4 +121,5 @@ npm run dev
 
 慶應義塾大学 理工学部 情報工学科  
 蔭山侑花
+
 
