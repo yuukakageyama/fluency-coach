@@ -5,6 +5,9 @@ from openai import OpenAI
 import uuid
 import os
 import json
+from dotenv import load_dotenv
+
+load_dotenv()
 
 app = FastAPI(title="Fluency Coach API")
 
