@@ -12,7 +12,8 @@ client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],
+    allow_origins=["http://localhost:3000",
+                   "https://fluency-coach.vercel.app"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
